@@ -1,4 +1,4 @@
-# Hi there, I'm Davi Athaydes Leite 👋
+## Hi there, I'm Davi Athaydes Leite 👋
 
 I'm a Master's student in Political Science at the [Institute of Social and Political Studies (IESP-UERJ)](https://iesp.uerj.br/), with a strong interest in quantitative methods, working at the intersection of data science and social science research. Also, I hold a Bachelor's degree in Public Administration from [Universidade Estadual do Norte Fluminense (UENF)](https://uenf.br/portal/).
 
@@ -8,7 +8,7 @@ I am interested in politics at the municipal level, especially the dynamics of l
 
 ---
 
-## 🤝 If you wish to contact me
+### 🤝 If you wish to contact me
 
 - **Email**: [daviathaydes1@gmail.com](mailto:daviathaydes1@gmail.com)
 
